@@ -5,5 +5,11 @@
   github:
   quote: >
     End-To-End Platform For Events And Activities
-  description: | # this will include new lines to allow paragraphs
-    TBA
+  description: |
+
+- layout: top-middle
+  name: TBA
+  link:
+  github:
+  quote: >
+  description: |

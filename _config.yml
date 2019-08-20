@@ -24,9 +24,11 @@ linkedin_username: manassarnmanoonchai
 
 # About Section
 about_title: About Me
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: assets/images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! The name's Noom. I'm a full-stack developer. I mainly make websites and some DevOps. I co-created [Eventpop](https://eventpop.me), an end-to-end platform for events & activities. My personality type (according to [MBTI](https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator)) is INTJ.
+  Hi! The name's <mark>Noom</mark>. I'm a full-stack developer. I mainly make websites and some DevOps. I co-created [Eventpop](https://eventpop.me), an end-to-end platform for events & activities. My personality type (according to [MBTI](https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator)) is [INTJ](https://www.16personalities.com/intj-personality)~[ISFJ](https://www.16personalities.com/isfj-personality). I'm eager to [learn everything](https://wiki.monosor.com). <mark>Productivity</mark> is my favorite word.
+
+  I like to code in <mark>Ruby</mark>, <mark>Elixir</mark>, <mark>Javascript</mark>. I build with <mark>TDD</mark> methodology in mind.
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -48,9 +50,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  TBA
+# This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+# Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
@@ -77,4 +80,4 @@ exclude : [
   "lib/",
   "scripts/",
   "docker-compose.yml",
-  ]
+]

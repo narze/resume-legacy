@@ -1,10 +1,26 @@
-# Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Eventpop
+  link: https://eventpop.me
+  job_title: Full-stack Developer
+  dates: 2015 - present
   quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+  description: >
+    <mark>Ruby on Rails</mark> <mark>React.js</mark> <mark>DevOps</mark> <mark>Docker</mark> <mark>Kubernetes</mark> <mark>PostgreSQL</mark>
+
+- layout: left
+  company: Maker Zoo
+  link: https://facebook.com/makerzoo
+  job_title: Co-founder
+  dates: 2014 - 2016
+  quote: >
+  description: >
+    Maker workshops eg. <mark>3d-modeling</mark> <mark>3d-printing</mark> <mark>Arduino</mark> <mark>IoT</mark>.
+
+- layout: left
+  company: Box24
+  link: https://washbox24.com
+  jobs:
+    - title: Developer (Contract)
+      dates: 2015 - 2016
+  description: >
+    Renovation of Smart Lockers System, using <mark>Node.js</mark> <mark>React.js</mark> <mark>Ubuntu Linux</mark> <mark>Arduino</mark>.
