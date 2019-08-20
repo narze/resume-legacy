@@ -1,38 +1,40 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: narze/resume
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Manassarn Manoonchai
+title: Full-stack Developer
+email: manassarn[at]gmail.com
+# phone: Your phone number (optional)
+website: https://monosor.com
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+twitter_username: narze
+github_username:  narze
+# dribbble_username: jekyll
+facebook_username: narze
+# flickr_username: jekyll
+instagram_username: narze
+linkedin_username: manassarnmanoonchai
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: About Me
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi! The name's Noom. I'm a full-stack developer. I mainly make websites and some DevOps. I co-created [Eventpop](https://eventpop.me), an end-to-end platform for events & activities. My personality type (according to [MBTI](https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator)) is INTJ.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+  # You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+  #   - Lists
+  #   - Tables
+  #   - Links
+  #   - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
