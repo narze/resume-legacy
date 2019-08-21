@@ -1,15 +1,20 @@
 - layout: left
   company: Eventpop
   link: https://eventpop.me
-  job_title: Full-stack Developer
-  dates: 2015 - present
+  github: eventpop
+  jobs:
+    - title: Co-founder
+    - title: "Full-stack Developer"
+      dates: 2015 - present
   quote: >
+    End-to-end platform for events and activities
   description: >
-    <mark>Ruby on Rails</mark> <mark>React.js</mark> <mark>DevOps</mark> <mark>Docker</mark> <mark>Kubernetes</mark> <mark>PostgreSQL</mark>
+    <mark>Ruby on Rails</mark> <mark>React.js</mark> <mark>DevOps</mark> <mark>Docker</mark> <mark>Kubernetes</mark> <mark>PostgreSQL</mark> <mark>AWS</mark> <mark>GCP</mark>
 
 - layout: left
   company: Maker Zoo
-  link: https://facebook.com/makerzoo
+  link: https://fb.me/makerzoo
+  github: makerzoo
   job_title: Co-founder
   dates: 2014 - 2016
   quote: >
@@ -24,3 +29,23 @@
       dates: 2015 - 2016
   description: >
     Renovation of Smart Lockers System, using <mark>Node.js</mark> <mark>React.js</mark> <mark>Ubuntu Linux</mark> <mark>Arduino</mark>.
+
+- layout: left
+  company: Figabyte
+  link: https://fb.me/figabyte
+  job_title: Developer
+  dates: 2011 - 2014
+  github:
+  quote: >
+  description: |
+    I made several Facebook apps with [CodeIgniter](https://codeigniter.com), learned about <mark>Ruby on Rails</mark> and switched since. Made some <mark>iOS</mark> apps from <mark>PhoneGap</mark> & <mark>RubyMotion</mark>.
+
+- layout: left
+  company: Wongnai
+  link: https://www.wongnai.com
+  job_title: Part-time Developer
+  dates: 2010
+  github: wongnai
+  quote: >
+  description: |
+    Develop a small part of website using <mark>Java</mark> with [Spring Framework](https://spring.io). Learned <mark>TDD</mark> practice & making early startup product.
