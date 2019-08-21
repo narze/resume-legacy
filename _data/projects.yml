@@ -2,14 +2,24 @@
 - layout: top-middle
   name: Eventpop
   link: https://eventpop.me
-  github:
+  github: eventpop
   quote: >
     End-To-End Platform For Events And Activities
   description: |
 
 - layout: top-middle
-  name: TBA
-  link:
-  github:
+  name: Laptop
+  link: https://github.com/narze/laptop
+  github: narze/laptop
   quote: >
+    macOS setup script for development (dotfiles and apps)
+  description: |
+    I love <mark>command lines!</mark> I continuously improving my development environment, so I wrote scripts with <mark>Zsh</mark> & <mark>Ansible</mark> to automate setting up <mark>Dotfiles</mark> with essential apps on my Macbook & personal <mark>Hackintosh.</mark>
+
+- layout: top-middle
+  name: Baht.rb
+  link: https://rubygems.org/gems/baht
+  github: narze/baht
+  quote: >
+    A ruby gem to convert any number to Thai Baht string.
   description: |
