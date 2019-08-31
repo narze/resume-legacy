@@ -28,7 +28,9 @@ linkedin_username: manassarnmanoonchai
 about_title: About Me
 # about_profile_image: assets/images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! The name's <mark>Noom</mark>. I'm a full-stack developer. I mainly make websites and some DevOps. I co-created [Eventpop](https://eventpop.me), an end-to-end platform for events & activities. My personality type (according to [MBTI](https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator)) is [INTJ](https://www.16personalities.com/intj-personality)~[ISFJ](https://www.16personalities.com/isfj-personality). I'm eager to [learn everything](https://wiki.monosor.com). <mark>Productivity</mark> is my favorite word.
+  Hi! My name's <mark>Noom</mark>. I'm a full-stack developer.
+  I mainly make websites and some DevOps. I co-created [Eventpop](https://eventpop.me),
+  an end-to-end platform for events & activities. I'm eager to [learn everything](https://wiki.monosor.com).
 
   I like to code in <mark>Ruby</mark>, <mark>Elixir</mark>, <mark>Javascript</mark>. I build with <mark>TDD</mark> methodology in mind.
 
