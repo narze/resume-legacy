@@ -6,10 +6,12 @@ repository: narze/resume
 name: Manassarn Manoonchai
 title: Full-stack Developer
 email: manassarn[at]gmail.com
+email_print: manassarn@gmail.com
 # phone: Your phone number (optional)
 website: https://monosor.com
 
 # Social links
+common_username: narze
 twitter_username: narze
 github_username:  narze
 # dribbble_username: jekyll

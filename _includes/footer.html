@@ -1,7 +1,14 @@
 <div class="container footer-container">
   <p>
-    {{ site.name | escape }} -
-    <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+    {{ site.name | escape }} -&nbsp;
+
+    {%- if site.email -%}
+      <a href="mailto:{{ site.email }}" target="_blank" class="no-print">{{ site.email | escape }}</a>
+    {%- endif -%}
+    {%- if site.email_print -%}
+      <a href="mailto:{{ site.email_print }}" target="_blank" class="no-web">{{ site.email_print | escape }}</a>
+    {%- endif -%}
+
     {%- if site.footer_show_references -%}
       &nbsp;- References on request
     {%- endif -%}

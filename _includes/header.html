@@ -86,8 +86,13 @@
       </ul>
 
       {%- if site.email -%}
-        <p>
+        <p class="no-print">
           Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+        </p>
+      {%- endif -%}
+      {%- if site.email_print -%}
+        <p class="no-web">
+          Email: <a href="#">{{ site.email_print | escape }}</a>
         </p>
       {%- endif -%}
       {%- if site.phone -%}
@@ -97,9 +102,22 @@
       {%- endif -%}
       {%- if site.website -%}
         <p>
-          Web: {% include a.html href=site.website %}{{ site.website | escape }}</a>
+          Web: {% include a.html href=site.website %}{{ site.website | escape }}
         </p>
       {%- endif -%}
+
+      <div class="no-web">
+        {%- if site.common_username -%}
+          <p>
+            FB/TW/IG/GH : <a href="#">{{ site.common_username | cgi_escape | escape }}</a>
+          </p>
+        {%- endif -%}
+        {%- if site.linkedin_username -%}
+          <p>
+            Linkedin : <a href="#">{{ site.linkedin_username| cgi_escape | escape }}</a>
+          </p>
+        {%- endif -%}
+      </div>
     </div>
   </div>
 </div>

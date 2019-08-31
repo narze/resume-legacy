@@ -206,7 +206,7 @@ p.quote {
   text-align: center;
 
   @media print {
-    text-align: left;
+    // text-align: left;
     padding: 0em 1em;
     margin-top: 1em;
   }

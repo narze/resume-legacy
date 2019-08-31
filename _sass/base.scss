@@ -228,13 +228,25 @@ body {
     width: 16.66666667%;
   }
   .col-sm-1 {
-    width:8.33333333%;
+    width: 8.33333333%;
   }
   .col-print-12 {
     width: 100%;
   }
+  .col-print-3 {
+    width: 20%;
+  }
+  .col-print-9 {
+    width: 80%;
+  }
 
   .no-print, .no-print * {
+    display: none !important;
+  }
+}
+
+@media not print {
+  .no-web, .no-web * {
     display: none !important;
   }
 }
