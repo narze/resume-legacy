@@ -5,17 +5,26 @@
   qualification: B.Eng. Computer Engineering
   quote: >
   description: |
+    GPA - 3.45
 
-- layout: left
-  name: Triam Udomsuksa Pattanakarn
-  dates: 2001 - 2006
-  qualification: Science & Math
-  quote: >
-  description: |
+    Favorite classes - Computer Programming 101, System Analysis Design, Digital Computer Logic, Programming Languages Principles
 
-- layout: left
-  name: Thai Christian School
-  dates: 1993 - 2000
-  qualification:
-  quote: >
-  description: |
+    Final Year Project - CPMagicHand – Computer commands from hand movement via webcam.
+
+      Developed application using Java and [<mark>Processing</mark>](https://processing.org) with OpenCV library.
+    Won 3rd price from NECTEC's [National Software Contest](http://www.nectec.or.th/nsc) 2011 (NSC), science and technology related
+    software division.
+
+# - layout: left
+#   name: Triam Udomsuksa Pattanakarn
+#   dates: 2001 - 2006
+#   qualification: Science & Math
+#   quote: >
+#   description: |
+
+# - layout: left
+#   name: Thai Christian School
+#   dates: 1993 - 2000
+#   qualification:
+#   quote: >
+#   description: |

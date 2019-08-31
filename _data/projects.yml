@@ -1,11 +1,13 @@
 # Project template
 - layout: top-middle
-  name: Eventpop
-  link: https://eventpop.me
-  github: eventpop
+  name: VSCode Switcheroo
+  link: https://bit.ly/vscode-switcheroo
+  github: narze/switcheroo
   quote: >
-    End-To-End Platform For Events And Activities
+    Switch code & test files quickly
   description: |
+    My first VSCode extension. Since I use TDD on many projects (including this one.)
+    I have to switch between code & test a lot. This extension adds shortcut keys to make file switching way faster.
 
 - layout: top-middle
   name: Laptop
@@ -14,7 +16,9 @@
   quote: >
     macOS setup script for development (dotfiles and apps)
   description: |
-    I love <mark>command lines!</mark> I continuously improving my development environment, so I wrote scripts with <mark>Zsh</mark> & <mark>Ansible</mark> to automate setting up <mark>Dotfiles</mark> with essential apps on my Macbook & personal <mark>Hackintosh.</mark>
+    I love command lines! I continuously improving my development environment,
+    so I wrote scripts with <mark>Zsh</mark> & <mark>Ansible</mark> to setup
+    <mark>Dotfiles</mark> with essential apps on my Macbook & personal <mark>Hackintosh.</mark>
 
 - layout: top-middle
   name: Baht.rb

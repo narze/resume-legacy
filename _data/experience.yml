@@ -9,7 +9,8 @@
   quote: >
     End-to-end platform for events and activities
   description: >
-    <mark>Ruby on Rails</mark> <mark>React.js</mark> <mark>DevOps</mark> <mark>Docker</mark> <mark>Kubernetes</mark> <mark>PostgreSQL</mark> <mark>AWS</mark> <mark>GCP</mark>
+    <mark>Ruby on Rails</mark> <mark>React.js</mark> <mark>DevOps</mark> <mark>Docker</mark>
+    <mark>Kubernetes</mark> <mark>PostgreSQL</mark> <mark>AWS</mark> <mark>GCP</mark>
 
 - layout: left
   company: Maker Zoo
@@ -38,7 +39,9 @@
   github:
   quote: >
   description: |
-    I made several Facebook apps with [CodeIgniter](https://codeigniter.com), learned about <mark>Ruby on Rails</mark> and switched since. Made some <mark>iOS</mark> apps from <mark>PhoneGap</mark> & <mark>RubyMotion</mark>.
+    Developed several Facebook web apps with [<mark>CodeIgniter</mark>](https://codeigniter.com),
+    using <mark>Facebook API</mark>, learned about <mark>Ruby on Rails</mark> and switched since.
+    Made some <mark>iOS</mark> apps from <mark>PhoneGap</mark> & [<mark>RubyMotion</mark>](http://www.rubymotion.com).
 
 - layout: left
   company: Wongnai
@@ -48,4 +51,5 @@
   github: wongnai
   quote: >
   description: |
-    Develop a small part of website using <mark>Java</mark> with [Spring Framework](https://spring.io). Learned <mark>TDD</mark> practice & making early startup product.
+    Developed a small part of website using <mark>Java</mark> with [Spring MVC Framework](https://spring.io) built with [Apache Maven](https://maven.apache.org).
+    Learned [<mark>TDD</mark>](https://en.wikipedia.org/wiki/Test-driven_development) practice & making early startup product.
